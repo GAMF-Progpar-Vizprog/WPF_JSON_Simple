@@ -6,7 +6,7 @@ using System.Text.Json;
 using System.Text.Unicode;
 using System.Windows;
 
-namespace JSON_Simple
+namespace WPF_JSON_Simple
 {
 	/// <summary>
 	/// Examples for serialization into JSON format and deserialization

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace JSON_Simple
+namespace WPF_JSON_Simple
 {
 	/// <summary>
 	/// Interaction logic for App.xaml

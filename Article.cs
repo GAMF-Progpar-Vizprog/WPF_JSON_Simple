@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace JSON_Simple
+namespace WPF_JSON_Simple
 {
 	public class Article
 	{
